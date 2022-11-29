@@ -27,7 +27,7 @@ used to get in to the other micro services boundry.
   * Docker
   
 ## To do
-  * MySql --> create database blog;
+  * Psql --> create database techcareerairtiesgateway;
   
 ## What is inside
   * REST API's Design for Blog Application
