@@ -1,5 +1,5 @@
 # Microservice_TechCareer_Airties_RegisterLogin
-This project mainly plays a role as a API Gateway for BlogProject and DairyProject microservices. Retrofit **by Square** is used to achieve this goal. JWT Authentication and Authorization are 
+This project mainly plays a role as a API Gateway for BlogProject and DairyProject microservices. __Retrofit__ **by Square** is used to achieve this goal. JWT Authentication and Authorization are 
 used to get in to the other micro services boundry.
 
 ## Tools and Technologies
